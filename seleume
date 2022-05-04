@@ -1,0 +1,4 @@
+https://github.com/intelliqittrainings/FunctionalTesting.git
+
+
+java -jar /var/lib/jenkins/workspace/test/testing.jar  (path) 
